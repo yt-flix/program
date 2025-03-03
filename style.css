@@ -1,0 +1,80 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+    color: #2e3d49;
+    line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+    background-color: #c9c9c9;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+header h1 {
+    color: #2e3d49;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+/* Section Styling */
+section {
+    padding: 60px 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+h3 {
+    font-size: 1.8rem;
+    margin-top: 20px;
+    color: #555;
+}
+
+p {
+    font-size: 1rem;
+    color: #555;
+    margin-top: 10px;
+}
+
+/* Image Section */
+.workout-image {
+    width: 50%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+/* Footer Section */
+footer {
+    background-color: #c9c9c9;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    font-size: 1rem;
+}
